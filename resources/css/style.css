@@ -1,0 +1,101 @@
+.navbar{
+    border-bottom: #1577A5 3px solid;
+    opacity: 0.9;
+}
+
+.container .navbar-brand {
+    font-family: 'Aclonica', sans-serif;
+    color: #F24500;
+}
+
+#home-section{
+    background: url("../imgs/hero.jpg") no-repeat top;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.7);
+    width: 100%;
+    height: 100%;
+}
+
+.home-inner{
+    padding-top: 100px;
+    color: #dedede;
+}
+
+#home-section .card-form{
+    opacity: 0.8;
+}
+
+.main-text{
+    width: 542px;
+    height: auto;
+}
+.home-icons{
+    color: #F24500;
+}
+
+#corona{
+    color: #00ba11;
+}
+
+.card-text{
+    border-top: #42403c 1px solid;
+}
+/*************************************/
+/*Explore Section*/
+/*************************************/
+
+.img-fluid{
+    height: 400px;
+}
+
+/*************************************/
+/*Create Section*/
+/*************************************/
+
+#create-head-section, #create-section{
+    background-color: #f2f2f2;
+}
+
+footer{
+    height: 100px;
+}
+
+footer .container-fluid{
+    height: 100%;
+}
+
+footer .footer-items{
+    color: #dedede;
+}
+
+.fab{
+    color: #f2f2f2;
+}
+
+.fa-twitter:active,
+.fa-twitter:hover{
+    color: #55acee;
+}
+
+.fa-facebook:active,
+.fa-facebook:hover{
+    color: #3b5999;
+}
+
+.fa-instagram:active,
+.fa-instagram:hover{
+    color: #e4405f;
+}
+
+.fa-whatsapp:active,
+.fa-whatsapp:hover{
+    color: #25D366;
+}
